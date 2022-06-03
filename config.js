@@ -1,7 +1,7 @@
 //=============『 Utama 』================== //
-global.owner = ['6287892711054'] 
-global.mods = [] 
-global.prems = [] 
+global.owner = ['6285706735450'] 
+global.mods = [6285706735450] 
+global.prems = [6283869803330] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'VERDI_STREO'
